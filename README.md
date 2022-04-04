@@ -3,8 +3,8 @@ Code Assessment for Flower Shop Network
 
 main.php contains all the code for FSN Assessment. 
 
-##Code breakdown:
-###main.php
+## Code breakdown:
+### main.php
   * Class Basket 
     * private attributes
       * basket - associate array of item and item count
@@ -21,5 +21,5 @@ main.php contains all the code for FSN Assessment.
  * testing
     * testing code and validate the class Basket with difference inputs 
     
-##To Run:
+## To Run:
   . execute the php script to see the result of the testing and validating. 
